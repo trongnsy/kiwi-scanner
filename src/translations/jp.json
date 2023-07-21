@@ -1,0 +1,8 @@
+{
+  "SequenceScanDelay": "連続スキャン間隔",
+  "SequenceScanDelayUnit": "秒",
+  "Help": "Help",
+  "Privacy": "Privacy",
+  "Save": "Save",
+  "VersionInfoFormat": "RayBarcode Reader, Version {0}, Build number {1}"
+}

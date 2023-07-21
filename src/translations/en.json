@@ -1,0 +1,8 @@
+{
+  "SequenceScanDelay": "Sequence Scan Delay",
+  "SequenceScanDelayUnit": "seconds",
+  "Help": "Help",
+  "Privacy": "Privacy",
+  "Save": "Save",
+  "VersionInfoFormat": "RayBarcode Reader, Version {0}, Build number {1}"
+}
